@@ -47,31 +47,24 @@ The main purpose of this project is to make warehouse product management easier,
 # Project Modules
 
 Login Module
-
 This module provides a login screen where the user enters a username and password to access the system.
 
 Dashboard Module
-
 The dashboard is the main screen of the application. It provides buttons to open different modules.
 
 Add Product Module
-
 This module allows the user to enter Product ID, Product Name, Category, Quantity and Price.
 
 View Product Module
-
 This module displays product information in a table format.
 
 Update Product Module
-
 This module is used to update the details of an existing product.
 
 Delete Product Module
-
 This module is used to delete a product using its Product ID.
 
 Change Password Module
-
 This module provides an option to change the user's password.
 
 #Database Information
