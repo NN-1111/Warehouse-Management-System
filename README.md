@@ -34,11 +34,6 @@ The `Warehouse_Database.sql` file creates the `warehouse_db` database with two t
 
 Import the SQL file using MySQL Workbench.
 
-## Demo Login
-
-- Username: `naman`
-- Password: `1234`
-
 ## Implementation Note
 
 The Java application currently uses demo login credentials. Product and password screens are not yet connected to database operations. The SQL script is provided separately.
