@@ -1,7 +1,7 @@
 Warehouse Management System
 
 
-#Introduction
+# Introduction
 
 The Warehouse Management System is a Java-based desktop application developed to manage warehouse products and their information.
 
@@ -10,7 +10,7 @@ It provides a simple interface to add, view, update and delete product records. 
 The main purpose of this project is to make warehouse product management easier, faster and more organized.
 
  
- #Objectives of the Project
+ # Objectives of the Project
 
 - To manage warehouse product records.
 - To reduce manual record-keeping work.
@@ -18,7 +18,7 @@ The main purpose of this project is to make warehouse product management easier,
 - To add, view, update and delete product information.
 - To provide a login system for access.
 
-#Main Features
+# Main Features
 
 1. Login: Allows users to access the application.
 2. Dashboard: Provides access to different modules.
@@ -29,7 +29,7 @@ The main purpose of this project is to make warehouse product management easier,
 7. Change Password: Allows users to change their password.
 8. Reset: Clears input fields where provided.
 
-#Technologies Used
+# Technologies Used
 
 - Programming Language: Java
 - GUI: Java Swing
@@ -37,14 +37,14 @@ The main purpose of this project is to make warehouse product management easier,
 - Database Connectivity: JDBC
 - IDE: IntelliJ IDEA
 
-#Software Requirements
+# Software Requirements
 
 - Java Development Kit (JDK)
 - IntelliJ IDEA
 - MySQL Server
 - MySQL Connector/J
 
-#Project Modules
+# Project Modules
 
 Login Module
 
@@ -87,7 +87,7 @@ Main Tables:
 
 The SQL file can be imported into MySQL to create the database and its tables.
 
-#How to Run the Project
+# How to Run the Project
 
 1. Install JDK and IntelliJ IDEA.
 2. Install and configure MySQL.
@@ -97,7 +97,7 @@ The SQL file can be imported into MySQL to create the database and its tables.
 6. Configure database connection details if required.
 7. Run the Login.java file.
 
-#Project Advantages
+# Project Advantages
 
 - Easy to use.
 - Simple graphical user interface.
@@ -105,13 +105,13 @@ The SQL file can be imported into MySQL to create the database and its tables.
 - Easy product management.
 - Reduces manual work.
 
-#Conclusion
+# Conclusion
 
 The Warehouse Management System is a useful project for understanding Java Swing application development and warehouse management concepts.
 
 Through this project, we learn about GUI design, Java programming, database concepts and software development.
 
-#Project Files
+# Project Files
 
 - "src/" – Contains Java source code and images.
 - "lib/" – Contains the MySQL Connector/J library.
